@@ -1,7 +1,7 @@
 name: konstrui
 favicon: null
-layout_spectrum: 0.4310823322739452
-typography_spectrum: 0.08965225331485271
+layout_spectrum: 0.24577
+typography_spectrum: 0.83923
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.21034225379116833
-  lightness: 0.332985085202381
-  saturation: 0.5527626499533653
-  rhythmicContrast: 0.48690575966611505
+    - '#ffffff'
+    - '#ea4565'
+    - '#bcbdc1'
+    - '#59595b'
+    - '#ed7c95'
+  brandStrength: 0.1875
+  lightness: 0.375
+  saturation: 0.625
+  rhythmicContrast: 0.5
 purpose: []
